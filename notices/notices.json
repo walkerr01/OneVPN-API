@@ -1,4 +1,4 @@
-{enable: 0,
+{enable: 1,
  Notices:[{
 "message":"🇧🇷 Isto é um teste\n\n🇺🇸 This is a test\n\n🇪🇸 Isto es uno test",
 "notification_title": "Test title",
