@@ -1,6 +1,6 @@
 {enable: 1,
  Notices:[{
-"message":"🇧🇷 Testing notification translation",
+"message": "Testing notification translation",
 "notification_title": "This is working!",
 "notification_msg": "Testing notification translation service is ok"}
 ]}
