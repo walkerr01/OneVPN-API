@@ -1,0 +1,54 @@
+{
+"CA01": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"CA02": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"DE01": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"DE02": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"US01": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"US02": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"BR01": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"BR02": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"UK01": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"UK02": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"FR01": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"FR02": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+],
+"BRVIP01": [{
+"serverStatus": "ON",
+"serverAlert": ""}
+]
+}
