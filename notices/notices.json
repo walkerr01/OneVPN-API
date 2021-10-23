@@ -1,4 +1,4 @@
-{enable: 0,
+{enable: 1,
  Notices:[{
 "message":"🇧🇷 Testing notification translation",
 "notification_title": "This is working!",
