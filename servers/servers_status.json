@@ -48,7 +48,7 @@
 "serverAlert": ""}
 ],
 "BRVIP01": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverStatus": "OFf",
+"serverAlert": "Maintenance in the data center in Brazil"}
 ]
 }
