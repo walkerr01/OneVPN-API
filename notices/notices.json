@@ -1,6 +1,6 @@
 {enable: 0,
  Notices:[{
-"message":"🇧🇷 Isto é um teste\n\n🇺🇸 This is a test\n\n🇪🇸 Isto es uno test",
-"notification_title": "Test title",
-"notification_msg": "This is a test"}
+"message":"🇧🇷 Testing notification translation",
+"notification_title": "This is working!",
+"notification_msg": "Testing notification translation service is ok"}
 ]}
