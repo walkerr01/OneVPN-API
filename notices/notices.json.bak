@@ -1,0 +1,6 @@
+{enable: 0,
+ Notices:[{
+"message": "App meessage here"!,
+"notification_title": "Title here",
+"notification_msg": "Notification message here"}
+]}
