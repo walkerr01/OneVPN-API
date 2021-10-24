@@ -2,5 +2,6 @@
  Notices:[{
 "message": "App meessage here",
 "notification_title": "Title here",
+"inAppWarning": "Warning inApp here(English)",
 "notification_msg": "Notification message here"}
 ]}
