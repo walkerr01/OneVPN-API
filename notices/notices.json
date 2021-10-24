@@ -1,9 +1,9 @@
 {enable: 1,
  Notices:[{
   "notification_title": "🇧🇷 - TIM está OFF!",
-  "notification_msg": "🇧🇷 - TIM está OFF no momento!",
+  "notification_msg": "Usuários do Brasil: TIM está OFF no momento!",
   
-  "message": "🇧🇷 - TIM está OFF!Entre no canal para mais informações",
+  "message": "TIM está OFF no modo WebSocket!Entre no canal para mais informações",
   
   "inAppWarning": "Operator TIM 🇧🇷 is not connecting in WebSocket (SSL) mode, please test DNSTT + OpenDNS Mode, Proxy Socks Mode, Dropbear Mode, or join the channel to learn more"
 }
