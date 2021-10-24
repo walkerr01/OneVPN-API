@@ -1,7 +1,10 @@
 {enable: 1,
  Notices:[{
-"message": "Testing notification translation",
-"notification_title": "This is working!",
-"inAppWarning": "Server problems in France. Should come back around 2pm!",
-"notification_msg": "Testing notification translation service is ok!"}
+  "notification_title": "🇧🇷 - TIM está OFF!",
+  "notification_msg": "🇧🇷 - TIM está OFF no momento!",
+  
+  "message": "🇧🇷 - TIM está OFF!Entre no canal para mais informações",
+  
+  "inAppWarning": "Operator TIM 🇧🇷 is not connecting in WebSocket (SSL) mode, please test DNSTT + OpenDNS Mode, Proxy Socks Mode, Dropbear Mode, or join the channel to learn more"
+}
 ]}
