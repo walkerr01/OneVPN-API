@@ -1,7 +1,10 @@
 {enable: 0,
  Notices:[{
-"message": "App meessage here",
-"notification_title": "Title here",
-"inAppWarning": "Warning inApp here(English)",
-"notification_msg": "Notification message here"}
+  "notification_title": "Title here!",
+  "notification_msg": "Notification message here",
+  
+  "message": "App meessage heres",
+  
+  "inAppWarning": "Warning inApp here(English)"
+}
 ]}
