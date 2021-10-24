@@ -2,5 +2,6 @@
  Notices:[{
 "message": "Testing notification translation",
 "notification_title": "This is working!",
-"notification_msg": "Testing notification translation service is ok.Now do this for the rest of the functions :v .Hug to the folks from the Source Codes group"}
+"inAppWarning": "Server problems in France. Should come back around 2pm!",
+"notification_msg": "Testing notification translation service is ok!"}
 ]}
