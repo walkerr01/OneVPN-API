@@ -2,12 +2,12 @@
  "notificationEnable": true,
  "notification_title": "Olá peoples",
  "notification_msg": "Atualização em breve:)",
- "notification_imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hj5BRP8183lgK1LKSQlazEyQOmNBsEqu1RU8EC05qXFsadQLM3nDxVg_TDSNa8cSoeU&usqp=CAU",
+ "notification_imageUrl": "https://storage.googleapis.com/sales.appinst.io/2019/08/the-4-dos-and-donts-of-push-notifications.png",
   
- "inAppAlertEnable": false,
- "inAppMessage": "",
+ "inAppAlertEnable": true,
+ "inAppMessage": "Testando alerta",
 
- "inAppWarningEnable": true,
- "inAppWarning": "German server maintenance tomorrow"
+ "inAppWarningEnable": false,
+ "inAppWarning": ""
 } 
 
