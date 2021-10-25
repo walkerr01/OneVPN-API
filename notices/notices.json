@@ -10,6 +10,6 @@
  "inAppMessage": "Testando alerta",
 
  "inAppWarningEnable": true,
- "inAppWarning": ""
+ "inAppWarning": "The VIP BR1 server is having problems with the Squid Proxy!"
 } 
 
