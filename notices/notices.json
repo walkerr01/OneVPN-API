@@ -1,10 +1,12 @@
-{enable: 0,
- Notices:[{
-  "notification_title": "🇧🇷 - TIM está OFF!",
-  "notification_msg": "Usuários do Brasil: TIM está OFF no momento!",
-  "message": "TIM está OFF no modo WebSocket!Entre no canal para mais informações",
-},
-{inAppWarningEnable: true,
+{
+ notificationEnable: true,
+ "notification_title": "🇧🇷 - TIM está OFF!",
+ "notification_msg": "Usuários do Brasil: TIM está OFF no momento!",
+  
+inAppAlertEnable: true,
+"inAppMessage":"TIM está OFF no modo WebSocket!Entre no canal para mais informações",
+
+ inAppWarningEnable: true,
  "inAppWarning":"German server maintenance tomorrow",
 } 
-]}
+
