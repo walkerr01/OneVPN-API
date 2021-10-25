@@ -1,7 +1,7 @@
 {
  "notificationEnable": true,
  "notification_title": "Olá peoples",
- "notification_msg": "Atualização em breve:) ",
+ "notification_msg": "Atualização em breve:)",
   
  "inAppAlertEnable": false,
  "inAppMessage": "",
