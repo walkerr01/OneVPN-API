@@ -1,10 +1,14 @@
-{enable: 0,
- Notices:[{
-  "notification_title": "Title here!",
-  "notification_msg": "Notification message here",
+{
+ "notificationEnable": false,
+ "notification_id": "0000",
+ "notification_title": "",
+ "notification_msg": "",
+ "notification_imageUrl": "",
   
-  "message": "App meessage heres",
-  
-  "inAppWarning": "Warning inApp here(English)"
-}
-]}
+ "inAppAlertEnable": false,
+ "inAppAlertID": "0000",
+ "inAppMessage": "",
+
+ "inAppWarningEnable": false,
+ "inAppWarning": ""
+} 
