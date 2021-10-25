@@ -2,6 +2,7 @@
  "notificationEnable": true,
  "notification_title": "Olá peoples",
  "notification_msg": "Atualização em breve:)",
+ "notification_imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hj5BRP8183lgK1LKSQlazEyQOmNBsEqu1RU8EC05qXFsadQLM3nDxVg_TDSNa8cSoeU&usqp=CAU",
   
  "inAppAlertEnable": false,
  "inAppMessage": "",
