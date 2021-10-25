@@ -1,13 +1,16 @@
 {
  "notificationEnable": true,
+ "notification_id": "251021",
  "notification_title": "Olá peoples",
  "notification_msg": "Atualização em breve:)",
  "notification_imageUrl": "https://storage.googleapis.com/sales.appinst.io/2019/08/the-4-dos-and-donts-of-push-notifications.png",
   
  "inAppAlertEnable": true,
+ "inAppAlertID": "251021",
  "inAppMessage": "Testando alerta",
 
- "inAppWarningEnable": false,
+ "inAppWarningEnable": true,
+ "inAppWarningID": "251021",
  "inAppWarning": ""
 } 
 
