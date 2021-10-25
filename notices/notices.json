@@ -1,15 +1,15 @@
 {
  "notificationEnable": true,
- "notification_id": "251021",
- "notification_title": "Olá peoples",
- "notification_msg": "Atualização em breve:)",
- "notification_imageUrl": "https://storage.googleapis.com/sales.appinst.io/2019/08/the-4-dos-and-donts-of-push-notifications.png",
+ "notification_id": "261021",
+ "notification_title": "Olá usuários!",
+ "notification_msg": "Atualização em breve,aguarde!:)",
+ "notification_imageUrl": "https://emdiabetes.com.br/wp-content/uploads/2017/09/breve.jpg",
   
  "inAppAlertEnable": true,
- "inAppAlertID": "251021",
+ "inAppAlertID": "261021",
  "inAppMessage": "Testando alerta",
 
  "inAppWarningEnable": true,
- "inAppWarning": "The VIP BR1 server is having problems with the Squid Proxy!"
+ "inAppWarning": "The VIP BR1 server is fixed now!"
 } 
 
