@@ -3,8 +3,8 @@
  "notification_title": "Olá peoples",
  "notification_msg": "Atualização em breve:) ",
   
-"inAppAlertEnable": false,
-"inAppMessage": "",
+ "inAppAlertEnable": false,
+ "inAppMessage": "",
 
  "inAppWarningEnable": true,
  "inAppWarning": "German server maintenance tomorrow"
