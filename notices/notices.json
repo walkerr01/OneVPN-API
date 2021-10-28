@@ -1,15 +1,15 @@
 {
  "notificationEnable": true,
- "notification_id": "261021",
+ "notification_id": "281021",
  "notification_title": "Olá usuários!",
  "notification_msg": "Atualização em breve,aguarde!:)",
- "notification_imageUrl": "https://emdiabetes.com.br/wp-content/uploads/2017/09/breve.jpg",
+ "notification_imageUrl": "https://geek360.com.br/wp-content/uploads/2019/08/Boa-VPN.jpg",
   
  "inAppAlertEnable": true,
- "inAppAlertID": "261021",
- "inAppMessage": "Testando alerta",
+ "inAppAlertID": "281021",
+ "inAppMessage": "Bem-vindo,esse é o sistema de alertas",
 
- "inAppWarningEnable": true,
- "inAppWarning": "The VIP BR1 server is fixed now!"
+ "inAppWarningEnable": false,
+ "inAppWarning": ""
 } 
 
