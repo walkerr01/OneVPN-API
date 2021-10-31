@@ -1,12 +1,12 @@
 {
- "notificationEnable": true,
- "notification_id": "281021",
+ "notificationEnable": false,
+ "notification_id": "311021",
  "notification_title": "Olá usuários!",
- "notification_msg": "Atualização em breve,aguarde!:)",
+ "notification_msg": "Esse é o sistema de notificação",
  "notification_imageUrl": "https://geek360.com.br/wp-content/uploads/2019/08/Boa-VPN.jpg",
   
- "inAppAlertEnable": true,
- "inAppAlertID": "281021",
+ "inAppAlertEnable": false,
+ "inAppAlertID": "311021",
  "inAppMessage": "Bem-vindo,esse é o sistema de alertas",
 
  "inAppWarningEnable": false,
