@@ -1,13 +1,13 @@
 {
- "notificationEnable": false,
- "notification_id": "311021",
- "notification_title": "Olá usuários!",
- "notification_msg": "Esse é o sistema de notificação",
- "notification_imageUrl": "https://geek360.com.br/wp-content/uploads/2019/08/Boa-VPN.jpg",
+ "notificationEnable": true,
+ "notification_id": "191121",
+ "notification_title": "ATUALIZAÇÃO EM BREVE...",
+ "notification_msg": "CORREÇÃO DO CONEXÃO NO OPERADOR VIVO (ATUALIZAÇÃO PROXY)",
+ "notification_imageUrl": "https://1.bp.blogspot.com/-HVrnX2CpTvs/XNnVjhMa77I/AAAAAAAAANc/y9BO-pW4pRgcWDq6kbcL_O7I-CS-nYMYgCPcBGAYYCw/w1200-h630-p-k-no-nu/aviso-importante.png",
   
- "inAppAlertEnable": false,
- "inAppAlertID": "311021",
- "inAppMessage": "Bem-vindo,esse é o sistema de alertas",
+ "inAppAlertEnable": true,
+ "inAppAlertID": "191121",
+ "inAppMessage": "ATUALIZAÇÃO EM BREVE...CORREÇÃO DA CONEXÃO NA VIVO!AGUARDE!",
 
  "inAppWarningEnable": false,
  "inAppWarning": ""
