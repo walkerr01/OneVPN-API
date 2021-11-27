@@ -9,7 +9,7 @@
  "inAppAlertID": "271121",
  "inAppMessage": "Possible drop in France services provider, server not responding. We are checking, please wait",
 
- "inAppWarningEnable": false,
- "inAppWarning": ""
+ "inAppWarningEnable": true,
+ "inAppWarning": "Possible drop in France services provider, server not responding. We are checking, please wait"
 } 
 
