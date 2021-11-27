@@ -1,13 +1,13 @@
 {
  "notificationEnable": true,
- "notification_id": "191121",
- "notification_title": "ATUALIZAÇÃO EM BREVE...",
- "notification_msg": "CORREÇÃO DO CONEXÃO NO OPERADOR VIVO (ATUALIZAÇÃO PROXY)",
- "notification_imageUrl": "https://1.bp.blogspot.com/-HVrnX2CpTvs/XNnVjhMa77I/AAAAAAAAANc/y9BO-pW4pRgcWDq6kbcL_O7I-CS-nYMYgCPcBGAYYCw/w1200-h630-p-k-no-nu/aviso-importante.png",
+ "notification_id": "271121",
+ "notification_title": "FRANCE SERVERS ARE OFF"",
+ "notification_msg": "Possible problem with France servers provider,server not responding at the time",
+ "notification_imageUrl": "https://th.bing.com/th/id/R.a453fa9a74a804a4a538cf0395eec31d?rik=MSkqgAgxV1nPCA&pid=ImgRaw&r=0",
   
  "inAppAlertEnable": true,
- "inAppAlertID": "191121",
- "inAppMessage": "ATUALIZAÇÃO EM BREVE...CORREÇÃO DA CONEXÃO NA VIVO!AGUARDE!",
+ "inAppAlertID": "271121",
+ "inAppMessage": "Possible problem with France servers provider,server not responding at the time",
 
  "inAppWarningEnable": false,
  "inAppWarning": ""
