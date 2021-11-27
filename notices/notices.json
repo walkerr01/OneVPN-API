@@ -1,13 +1,13 @@
 {
- "notificationEnable": true,
+ "notificationEnable": false,
  "notification_id": "271121",
- "notification_title": "FRANCE SERVERS ARE OFF"",
- "notification_msg": "Possible problem with France servers provider,server not responding at the time",
- "notification_imageUrl": "https://th.bing.com/th/id/R.a453fa9a74a804a4a538cf0395eec31d?rik=MSkqgAgxV1nPCA&pid=ImgRaw&r=0",
+ "notification_title": "TITLE NOTIFICATION HERE",
+ "notification_msg": "MSG NOTIFICATION HERE",
+ "notification_imageUrl": "IMG_URL_HERE",
   
- "inAppAlertEnable": true,
+ "inAppAlertEnable": false,
  "inAppAlertID": "271121",
- "inAppMessage": "Possible problem with France servers provider,server not responding at the time",
+ "inAppMessage": "",
 
  "inAppWarningEnable": false,
  "inAppWarning": ""
