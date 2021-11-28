@@ -1,15 +1,15 @@
 {
- "notificationEnable": true,
+ "notificationEnable": false,
  "notification_id": "271121",
- "notification_title": "FRANCE SERVERS ARE OFF",
- "notification_msg": "Possible drop in France services provider, server not responding. We are checking, please wait",
- "notification_imageUrl": "https://th.bing.com/th/id/R.a453fa9a74a804a4a538cf0395eec31d?rik=MSkqgAgxV1nPCA&pid=ImgRaw&r=0",
+ "notification_title": "",
+ "notification_msg": "",
+ "notification_imageUrl": "",
   
- "inAppAlertEnable": true,
+ "inAppAlertEnable": false,
  "inAppAlertID": "271121",
- "inAppMessage": "Possible drop in France services provider, server not responding. We are checking, please wait",
+ "inAppMessage": "",
 
- "inAppWarningEnable": true,
- "inAppWarning": "Possible drop in France servers. We are checking, please wait"
+ "inAppWarningEnable": false,
+ "inAppWarning": ""
 } 
 
