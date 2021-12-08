@@ -5,11 +5,11 @@
  "notification_msg": "",
  "notification_imageUrl": "",
   
- "inAppAlertEnable": true,
+ "inAppAlertEnable": false,
  "inAppAlertID": "061221",
- "inAppMessage": "Update US and UK servers - They may not connect at the moment!\n\nServidores US e UK - Podem não conectar no momento",
+ "inAppMessage": "",
 
- "inAppWarningEnable": true,
- "inAppWarning": "About US and UK servers:\n\nIf they dont work for you,\ntry other servers!\n\nThe same servers\nhave been changed,\nthis update may take a while"
+ "inAppWarningEnable": false,
+ "inAppWarning": ""
 } 
 
