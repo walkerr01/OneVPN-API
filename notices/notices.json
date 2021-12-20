@@ -5,11 +5,11 @@
  "notification_msg": "",
  "notification_imageUrl": "",
   
- "inAppAlertEnable": true,
+ "inAppAlertEnable": false,
  "inAppAlertID": "191221",
- "inAppMessage": "Maintenance not scheduled US server:\n\nDay 21 from 1h00 to 5h00 (UCT)",
+ "inAppMessage": "",
 
- "inAppWarningEnable": false,
- "inAppWarning": ""
+ "inAppWarningEnable": true,
+ "inAppWarning": "Maintenance not scheduled US server:\n\nDay 21 from 1h00 to 5h00 (UCT)"
 } 
 
