@@ -1,17 +1,32 @@
 {
+"DIRECT_SSH": [{
+"data": "ACL HTTP/1.1[lf]Host: google.es[lf]"}
+],
+"DROPBEAR": [{
+"data": "MOVE soundcloud.com HTTP/1.0[crlf]Host: soundcloud.com[crlf]|[crlf]"}
+],
+"SSH_SSL": [{
+"data": ".web.whatsapp.com"}
+],
+"SSH_PROXY": [{
+"data": "CONNECT [host_port][delay_split]HTTP/1.1 200 OK Host: www.viamichelin.com[crlf]"}
+],
 "DIRECT_WS": [{
-"proxy-ip": "104.18.7.80"}
+"data": "104.18.7.80"}
 ],
 "SSL_WS": [{
-"proxy-ip": "104.16.18.94"}
+"data": "104.16.18.94"}
 ],
 "PROXY_WS": [{
-"proxy-ip": "104.18.6.80"}
+"data": "104.18.6.80"}
+],
+"OVPN_SOCKS": [{
+"data": "ACL HTTP/1.1[lf]Host: google.es[lf]"}
 ],
 "OVPN_CDN_PROXY": [{
-"proxy-ip": "cdnjs.cloudflare.com"}
+"data": "cdnjs.cloudflare.com"}
 ],
 "OVPN_CDN_SSL": [{
-"proxy-ip": "cdnjs.cloudflare.com"}
+"data": "cdnjs.cloudflare.com"}
 ]
 }
