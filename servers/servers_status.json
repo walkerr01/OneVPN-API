@@ -40,12 +40,12 @@
 "serverAlert": ""}
 ],
 "FR01": [{
-"serverStatus": "OFF",
-"serverAlert": "Problem with service provider"}
+"serverStatus": "ON",
+"serverAlert": ""}
 ],
 "FR02": [{
-"serverStatus": "OFF",
-"serverAlert": "Problem with service provider"}
+"serverStatus": "ON",
+"serverAlert": ""}
 ],
 "BRVIP01": [{
 "serverStatus": "ON",
