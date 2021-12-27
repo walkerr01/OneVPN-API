@@ -9,7 +9,7 @@
  "inAppAlertID": "191221",
  "inAppMessage": "",
 
- "inAppWarningEnable": false,
- "inAppWarning": ""
+ "inAppWarningEnable": true,
+ "inAppWarning": "In case of crashes and/or slowdowns,\ntest other servers"
 } 
 
