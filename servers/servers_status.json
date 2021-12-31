@@ -1,19 +1,19 @@
 {
 "CA01": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverStatus": "OFF",
+"serverAlert": "Problemas com o provedor de serviço|Problems with the service provider|"}
 ],
 "CA02": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverStatus": "OFF",
+"serverAlert": "Problemas com o provedor de serviço|Problems with the service provider|"}
 ],
 "DE01": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverStatus": "OFF",
+"serverAlert": "Problemas com o provedor de serviço|Problems with the service provider|"}
 ],
 "DE02": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverStatus": "OFF",
+"serverAlert": "Problemas com o provedor de serviço|Problems with the service provider|"}
 ],
 "US01": [{
 "serverStatus": "ON",
@@ -40,12 +40,12 @@
 "serverAlert": ""}
 ],
 "FR01": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverStatus": "OFF",
+"serverAlert": "Problemas com o provedor de serviço|Problems with the service provider|"}
 ],
 "FR02": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverStatus": "OFF",
+"serverAlert": "Problemas com o provedor de serviço|Problems with the service provider|"}
 ],
 "BRVIP01": [{
 "serverStatus": "ON",
