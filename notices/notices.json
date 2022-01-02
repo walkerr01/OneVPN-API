@@ -1,15 +1,15 @@
 {
- "notificationEnable": true,
- "notification_id": "311291",
- "notification_title": "Server error!",
- "notification_msg": "Servers canada, france and germany are having problems! We will resolve shortly\n\nServidores canadá,frança e alemanha estão passando por problemas! Iremos resolver brevemente",
+ "notificationEnable": false,
+ "notification_id": "020121",
+ "notification_title": "!",
+ "notification_msg": "",
  "notification_imageUrl": "",
   
- "inAppAlertEnable": true,
- "inAppAlertID": "311221",
- "inAppMessage": "Servers canada, france and germany are having problems! We will resolve shortly",
+ "inAppAlertEnable": false,
+ "inAppAlertID": "020121",
+ "inAppMessage": "",
 
  "inAppWarningEnable": true,
- "inAppWarning": "Servers canada, france and germany are having problems! We will resolve shortly"
+ "inAppWarning": "Happy New Year to everybody!\nI apologize for the constant\ncrashes of the app over\nthe past few days.\n\nThe servers that were having\n a problem have been changed.\n\n Please test and let us\n know in case of errors."
 } 
 
