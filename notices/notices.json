@@ -10,6 +10,6 @@
  "inAppMessage": "",
 
  "inAppWarningEnable": true,
- "inAppWarning": "Mandatory app on update\nnext week.\nChanging all\ndomains and servers.\nOld versions will\nnot be supported and will stop working."
+ "inAppWarning": "Mandatory app update\nin next week.\nChanging all\ndomains and servers.\nOld versions will not be supported and will stop working."
 } 
 
