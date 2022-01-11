@@ -1,15 +1,15 @@
 {
  "notificationEnable": false,
- "notification_id": "271121",
- "notification_title": "",
+ "notification_id": "020121",
+ "notification_title": "!",
  "notification_msg": "",
  "notification_imageUrl": "",
   
  "inAppAlertEnable": false,
- "inAppAlertID": "191221",
+ "inAppAlertID": "020121",
  "inAppMessage": "",
 
  "inAppWarningEnable": true,
- "inAppWarning": "Maintenance scheduled US server:\n\nDay 21 from 1h00 to 5h00 (UCT)"
+ "inAppWarning": "Mandatory app update\nin next week.\nChanging all\ndomains and servers.\nOld versions will not be supported and will stop working."
 } 
 
