@@ -9,7 +9,7 @@
  "inAppAlertID": "020121",
  "inAppMessage": "",
 
- "inAppWarningEnable": true,
- "inAppWarning": "Update 86 is now available\nPlease update as soon\nas possible so you don't get\ndisconnected.\nOlder versions will stop!"
+ "inAppWarningEnable": false,
+ "inAppWarning": "OK"
 } 
 
