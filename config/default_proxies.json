@@ -24,9 +24,9 @@
 "data": "ACL HTTP/1.1[lf]Host: google.es[lf]"}
 ],
 "OVPN_CDN_PROXY": [{
-"data": "cdnjs.cloudflare.com"}
+"data": "104.16.18.94"}
 ],
 "OVPN_CDN_SSL": [{
-"data": "cdnjs.cloudflare.com"}
+"data": "104.16.18.94"}
 ]
 }
