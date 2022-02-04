@@ -12,7 +12,7 @@
 "DE01": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": false}
+"tv": true}
 ],
 "US01": [{
 "serverStatus": "ON",
