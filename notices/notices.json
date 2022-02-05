@@ -9,7 +9,7 @@
  "inAppAlertID": "020121",
  "inAppMessage": "",
 
- "inAppWarningEnable": true,
- "inAppWarning": "Mandatory app update\nin next week.\nChanging all\ndomains and servers.\nOld versions will not be supported and will stop working."
+ "inAppWarningEnable": false,
+ "inAppWarning": "OK"
 } 
 
