@@ -20,18 +20,18 @@
 "tv": true}
 ],
 "BR01": [{
-"serverStatus": "ON",
+"serverStatus": "OFF",
 "serverAlert": "",
 "tv": true}
 ],
 "BR02": [{
-"serverStatus": "ON",
-"serverAlert": "",
+"serverStatus": "OFF",
+"serverAlert": "Problemas no provedor do servidor.Estamos verificando",
 "tv": false}
 ],
 "UK01": [{
 "serverStatus": "ON",
-"serverAlert": "",
+"serverAlert": "Problemas no provedor do servidor.Estamos verificando",
 "tv": false}
 ],
 "FR01": [{
