@@ -5,8 +5,8 @@
 "tv": true}
 ],
 "CA02": [{
-"serverStatus": "OFF",
-"serverAlert": "Estamos testando a conexão OpenVPN + SSL.Este teste pode causar algumas quedas neste servidor por enquanto",
+"serverStatus": "ON",
+"serverAlert": "",
 "tv": true}
 ],
 "DE01": [{
