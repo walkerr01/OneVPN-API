@@ -20,13 +20,13 @@
 "tv": true}
 ],
 "BR01": [{
-"serverStatus": "ON",
-"serverAlert": "",
+"serverStatus": "OFF",
+"serverAlert": "Mudança de Servidores Brasil,a empresa atual bloqueou nosso acesso.<br><br>Previsão retorno amanhã depois das 15:00",
 "tv": true}
 ],
 "BR02": [{
-"serverStatus": "ON",
-"serverAlert": "",
+"serverStatus": "OFF",
+"serverAlert": "Mudança de Servidores Brasil,a empresa atual bloqueou nosso acesso.<br><br>Previsão retorno amanhã depois das 15:00",
 "tv": false}
 ],
 "UK01": [{
