@@ -45,8 +45,8 @@
 "bughost": "104.16.18.94"}
 ],
 "OVPN_CDN_SSL": [{
-"payload": "CONNECT wss://cdnjs.cloudflare.com HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+"payload": "GET wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "sni": "cdnjs.cloudflare.com",
-"bughost": "cdnjs.cloudflare.com"}
+"bughost": "104.16.18.94"}
 ]
 }
