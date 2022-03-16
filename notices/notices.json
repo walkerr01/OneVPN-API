@@ -10,6 +10,6 @@
  "inAppMessage": "Version 99 available: Upgrading is mandatory as old versions will stop. Download from play store.",
 
  "inAppWarningEnable": true,
- "inAppWarning": "Version 99 available: Upgrading is mandatory as old versions will stop. If the update does not appear, please clear Google Play data/cache. If the app is giving an error after updating, clear the data, if the error persists, contact us via https://t.me/onehostgroup"
+ "inAppWarning": "Version 99 available:\n\n Upgrading is mandatory as old versions will stop.\nIf the update does not appear, please clear Google Play data/cache.\nIf the app is giving an error after updating, clear the data, \nif the error persists, contact us via https://t.me/onehostgroup"
 } 
 
