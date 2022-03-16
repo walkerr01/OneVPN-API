@@ -1,15 +1,15 @@
 {
- "notificationEnable": false,
- "notification_id": "020121",
- "notification_title": "!",
- "notification_msg": "",
+ "notificationEnable": true,
+ "notification_id": "160322",
+ "notification_title": "Version 99 available!",
+ "notification_msg": "Upgrading is mandatory as old versions will stop. Download from play store.",
  "notification_imageUrl": "",
   
  "inAppAlertEnable": false,
- "inAppAlertID": "020121",
- "inAppMessage": "",
+ "inAppAlertID": "160322",
+ "inAppMessage": "Version 99 available: Upgrading is mandatory as old versions will stop. Download from play store.",
 
- "inAppWarningEnable": false,
- "inAppWarning": "OK"
+ "inAppWarningEnable": true,
+ "inAppWarning": "Version 99 available: Upgrading is mandatory as old versions will stop. If the update does not appear, please clear Google Play data/cache. If the app is giving an error after updating, clear the data, if the error persists, contact us via https://t.me/onehostgroup"
 } 
 
