@@ -1,13 +1,13 @@
 {
  "notificationEnable": true,
- "notification_id": "160322",
- "notification_title": "Version 99 available!",
- "notification_msg": "Upgrading is mandatory as old versions will stop. Download from play store.",
+ "notification_id": "170322",
+ "notification_title": "Atualize (Update) v99!",
+ "notification_msg": "Upgrading is mandatory as old versions will stop. Download from play store. - A atualização é obrigatória, pois as versões antigas serão interrompidas. Baixe na play store.",
  "notification_imageUrl": "",
   
- "inAppAlertEnable": false,
- "inAppAlertID": "160322",
- "inAppMessage": "Version 99 available: Upgrading is mandatory as old versions will stop. Download from play store.",
+ "inAppAlertEnable": true,
+ "inAppAlertID": "170322",
+ "inAppMessage": "Versões antigas não funcionam mais. Se já tiver atualizado,ignore\n\nOlder versions no longer work. If you have already updated, ignore",
 
  "inAppWarningEnable": true,
  "inAppWarning": "Version 99 available:<br><br>Upgrading is mandatory<br>as old versions will stop.<br>If the update<br>does not appear, please<br>clear Google Play data/cache.<br>If already updated, ignore"
