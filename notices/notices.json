@@ -9,7 +9,7 @@
  "inAppAlertID": "230322",
  "inAppMessage": "Versões antigas não funcionam mais. Se já tiver atualizado,ignore\n\nOlder versions no longer work. If you have already updated, ignore",
 
- "inAppWarningEnable": true,
+ "inAppWarningEnable": false,
  "inAppWarning": "VERSION 100 AVAILABLE<br><br>Better app optimization,less crashes.<br>Fixed crashing on some phones"
 } 
 
