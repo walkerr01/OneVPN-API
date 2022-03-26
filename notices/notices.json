@@ -10,6 +10,6 @@
  "inAppMessage": "Versões antigas não funcionam mais. Se já tiver atualizado,ignore\n\nOlder versions no longer work. If you have already updated, ignore",
 
  "inAppWarningEnable": true,
- "inAppWarning": "VERSION 102 AVAILABLE<br><br>Fixed crashing on some phones<br>The app will no longer<br>open on rooted phones<br>or together with novice apps (like termux)"
+ "inAppWarning": "VERSION 102 AVAILABLE<br><br>Fixed crashing on some phones<br>The app will no longer<br>open on rooted phones<br>or together with somes (like termux)"
 } 
 
