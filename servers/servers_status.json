@@ -2,7 +2,7 @@
 "CA01": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": true}
+"tv": false}
 ],
 "CA02": [{
 "serverStatus": "ON",
@@ -22,17 +22,17 @@
 "US01": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": true}
+"tv": false}
 ],
 "BR01": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": true}
+"tv": false}
 ],
 "BR02": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": true}
+"tv": false}
 ],
 "BR03": [{
 "serverStatus": "ON",
@@ -42,7 +42,7 @@
 "BR04": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": true}
+"tv": false}
 ],
 "UK01": [{
 "serverStatus": "ON",
@@ -52,7 +52,7 @@
 "FR01": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": true}
+"tv": false}
 ],
 "BRVIP01": [{
 "serverStatus": "ON",
