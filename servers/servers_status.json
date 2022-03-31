@@ -4,77 +4,77 @@
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "CA02": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "CA03": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "DE01": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "US01": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "BR01": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "BR02": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "BR03": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "BR04": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "UK01": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "FR01": [{
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
 "isGF": false,
-"ea": true}
+"ld": false}
 ],
 "BRVIP01": [{
 "serverStatus": "ON",
