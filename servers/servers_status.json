@@ -4,7 +4,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "CA02": [{
@@ -12,7 +12,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "CA03": [{
@@ -20,7 +20,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "DE01": [{
@@ -28,7 +28,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "US01": [{
@@ -36,7 +36,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "BR01": [{
@@ -44,7 +44,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "BR02": [{
@@ -52,7 +52,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "BR03": [{
@@ -60,7 +60,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "BR04": [{
@@ -68,7 +68,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "UK01": [{
@@ -76,7 +76,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "FR01": [{
@@ -84,7 +84,7 @@
 "serverAlert": "",
 "tv": false,
 "try": false,
-"isGF": false,
+"isGF": true,
 "ld": false}
 ],
 "BRVIP01": [{
