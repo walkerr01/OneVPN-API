@@ -5,8 +5,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "CA02": [{
@@ -15,8 +15,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "CA03": [{
@@ -25,8 +25,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "DE01": [{
@@ -35,8 +35,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "US01": [{
@@ -45,8 +45,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "BR01": [{
@@ -55,8 +55,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "BR02": [{
@@ -65,8 +65,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "BR03": [{
@@ -75,8 +75,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "BR04": [{
@@ -85,8 +85,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "UK01": [{
@@ -95,8 +95,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "FR01": [{
@@ -105,8 +105,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "SG01": [{
@@ -115,8 +115,8 @@
 "tv": false,
 "try2": false,
 "tryafs": false,
-"isGF": true,
-"sd": true,
+"isGF": false,
+"sd": false,
 "ld": false}
 ],
 "BRVIP01": [{
