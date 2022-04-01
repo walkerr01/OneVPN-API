@@ -6,7 +6,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "CA02": [{
@@ -16,7 +16,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "CA03": [{
@@ -26,7 +26,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "DE01": [{
@@ -36,7 +36,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "US01": [{
@@ -46,7 +46,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "BR01": [{
@@ -56,7 +56,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "BR02": [{
@@ -66,7 +66,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "BR03": [{
@@ -76,7 +76,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "BR04": [{
@@ -86,7 +86,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "UK01": [{
@@ -96,7 +96,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "FR01": [{
@@ -106,7 +106,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "SG01": [{
@@ -116,7 +116,7 @@
 "try2": false,
 "tryafs": false,
 "isGF": true,
-"sd": false,
+"sd": true,
 "ld": false}
 ],
 "BRVIP01": [{
