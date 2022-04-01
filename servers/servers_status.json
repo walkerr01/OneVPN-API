@@ -65,9 +65,9 @@
 "tv": false,
 "try2": true,
 "tryafs": false,
-"isGF": false,
+"isGF": true,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "BR03": [{
 "serverStatus": "ON",
@@ -105,9 +105,9 @@
 "tv": false,
 "try2": true,
 "tryafs": false,
-"isGF": false,
+"isGF": true,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "SG01": [{
 "serverStatus": "ON",
