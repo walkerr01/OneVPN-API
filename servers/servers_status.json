@@ -70,8 +70,8 @@
 "ld": true}
 ],
 "BR03": [{
-"serverStatus": "ON",
-"serverAlert": "",
+"serverStatus": "OFF",
+"serverAlert": "Problemas no provedor de serviço",
 "tv": false,
 "try2": true,
 "tryafs": false,
