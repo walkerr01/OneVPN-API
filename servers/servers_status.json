@@ -72,7 +72,7 @@
 "BR03": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": false,
+"tv": true,
 "try2": true,
 "tryafs": false,
 "isGF": false,
@@ -83,6 +83,16 @@
 "serverStatus": "ON",
 "serverAlert": "",
 "tv": false,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
+],
+"BR05": [{
+"serverStatus": "ON",
+"serverAlert": "",
+"tv": true,
 "try2": true,
 "tryafs": false,
 "isGF": false,
