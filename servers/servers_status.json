@@ -2,7 +2,7 @@
 "CA01": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": false,
+"tv": true,
 "try2": true,
 "tryafs": false,
 "isGF": false,
@@ -12,7 +12,7 @@
 "CA02": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": false,
+"tv": true,
 "try2": true,
 "tryafs": false,
 "isGF": false,
@@ -42,7 +42,7 @@
 "US01": [{
 "serverStatus": "ON",
 "serverAlert": "",
-"tv": false,
+"tv": true,
 "try2": true,
 "tryafs": false,
 "isGF": false,
