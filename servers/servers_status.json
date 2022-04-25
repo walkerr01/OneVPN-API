@@ -125,9 +125,9 @@
 "tv": false,
 "try2": true,
 "tryafs": false,
-"isGF": true,
+"isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "BRVIP01": [{
 "serverStatus": "ON",
