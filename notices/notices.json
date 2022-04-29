@@ -7,7 +7,7 @@
   
  "inAppAlertEnable": true,
  "inAppAlertID": "290422",
- "inAppMessage": "IF NOT CONNECTING (UNAUTHORIZED DEVICE):JUST REINSTALL THE APP!,
+ "inAppMessage": "IF NOT CONNECTING (UNAUTHORIZED DEVICE):JUST REINSTALL THE APP!",
 
  "inAppWarningEnable": true,
  "inAppWarning": "IF NOT CONNECTING <br>(UNAUTHORIZED DEVICE)<br>JUST REINSTALL THE APP!"
