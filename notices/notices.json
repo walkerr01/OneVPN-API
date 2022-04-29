@@ -5,11 +5,11 @@
  "notification_msg": "Upgrading is mandatory as old versions will stop. Download from play store. - A atualização é obrigatória, pois as versões antigas serão interrompidas. Baixe na play store.",
  "notification_imageUrl": "",
   
- "inAppAlertEnable": false,
- "inAppAlertID": "230322",
- "inAppMessage": "Versões antigas não funcionam mais. Se já tiver atualizado,ignore\n\nOlder versions no longer work. If you have already updated, ignore",
+ "inAppAlertEnable": true,
+ "inAppAlertID": "290422",
+ "inAppMessage": "IF NOT CONNECTING (UNAUTHORIZED DEVICE):JUST REINSTALL THE APP!,
 
- "inAppWarningEnable": false,
- "inAppWarning": "VERSION 102 AVAILABLE<br><br>Fixed crashing on some phones<br>The app will no longer<br>open on rooted phones<br>or together with somes apps (like termux)"
+ "inAppWarningEnable": true,
+ "inAppWarning": "IF NOT CONNECTING <br>(UNAUTHORIZED DEVICE)<br>JUST REINSTALL THE APP!"
 } 
 
