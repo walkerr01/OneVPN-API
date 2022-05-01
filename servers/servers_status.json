@@ -7,7 +7,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "CA02": [{
 "serverStatus": "ON",
@@ -17,7 +17,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "CA03": [{
 "serverStatus": "ON",
@@ -27,7 +27,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "DE01": [{
 "serverStatus": "ON",
@@ -37,7 +37,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "US01": [{
 "serverStatus": "ON",
@@ -47,7 +47,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "BR01": [{
 "serverStatus": "ON",
@@ -57,7 +57,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "BR02": [{
 "serverStatus": "ON",
@@ -77,7 +77,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "BR04": [{
 "serverStatus": "ON",
@@ -87,7 +87,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "BR05": [{
 "serverStatus": "ON",
@@ -97,7 +97,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "UK01": [{
 "serverStatus": "ON",
@@ -107,7 +107,7 @@
 "tryafs": false,
 "isGF": false,
 "sd": true,
-"ld": false}
+"ld": true}
 ],
 "FR01": [{
 "serverStatus": "ON",
