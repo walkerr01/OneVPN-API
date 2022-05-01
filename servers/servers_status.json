@@ -110,8 +110,8 @@
 "ld": true}
 ],
 "FR01": [{
-"serverStatus": "ON",
-"serverAlert": "",
+"serverStatus": "OFF",
+"serverAlert": "Fixing issue now",
 "tv": false,
 "try2": true,
 "tryafs": false,
