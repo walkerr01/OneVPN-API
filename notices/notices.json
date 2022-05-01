@@ -5,11 +5,11 @@
  "notification_msg": "Upgrading is mandatory as old versions will stop. Download from play store. - A atualização é obrigatória, pois as versões antigas serão interrompidas. Baixe na play store.",
  "notification_imageUrl": "",
   
- "inAppAlertEnable": true,
+ "inAppAlertEnable": false,
  "inAppAlertID": "290422",
  "inAppMessage": "IF NOT CONNECTING (UNAUTHORIZED DEVICE):JUST REINSTALL THE APP!",
 
- "inAppWarningEnable": true,
+ "inAppWarningEnable": false,
  "inAppWarning": "IF NOT CONNECTING <br>(UNAUTHORIZED DEVICE)<br>JUST REINSTALL THE APP!"
 } 
 
