@@ -1,51 +1,133 @@
 {
 "CA01": [{
 "serverStatus": "ON",
-"serverAlert": ""}
+"serverAlert": "",
+"tv": true,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
 ],
 "CA02": [{
 "serverStatus": "ON",
-"serverAlert": ""}
+"serverAlert": "",
+"tv": true,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
+],
+"CA03": [{
+"serverStatus": "ON",
+"serverAlert": "",
+"tv": false,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
 ],
 "DE01": [{
 "serverStatus": "ON",
-"serverAlert": ""}
-],
-"DE02": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverAlert": "",
+"tv": false,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
 ],
 "US01": [{
 "serverStatus": "ON",
-"serverAlert": ""}
-],
-"US02": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverAlert": "",
+"tv": true,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
 ],
 "BR01": [{
 "serverStatus": "ON",
-"serverAlert": ""}
+"serverAlert": "",
+"tv": false,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
 ],
 "BR02": [{
 "serverStatus": "ON",
-"serverAlert": ""}
+"serverAlert": "",
+"tv": false,
+"try2": true,
+"tryafs": false,
+"isGF": true,
+"sd": true,
+"ld": true}
+],
+"BR03": [{
+"serverStatus": "ON",
+"serverAlert": "",
+"tv": true,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
+],
+"BR04": [{
+"serverStatus": "ON",
+"serverAlert": "",
+"tv": false,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
+],
+"BR05": [{
+"serverStatus": "ON",
+"serverAlert": "",
+"tv": true,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
 ],
 "UK01": [{
 "serverStatus": "ON",
-"serverAlert": ""}
-],
-"UK02": [{
-"serverStatus": "ON",
-"serverAlert": ""}
+"serverAlert": "",
+"tv": false,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": false}
 ],
 "FR01": [{
 "serverStatus": "ON",
-"serverAlert": ""}
+"serverAlert": "",
+"tv": false,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": true}
 ],
-"FR02": [{
+"SG01": [{
 "serverStatus": "ON",
-"serverAlert": ""}
+"serverAlert": "",
+"tv": false,
+"try2": true,
+"tryafs": false,
+"isGF": false,
+"sd": true,
+"ld": true}
 ],
 "BRVIP01": [{
 "serverStatus": "ON",
